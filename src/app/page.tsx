@@ -391,13 +391,13 @@ export default function Home() {
                     
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-12">
                         <PortfolioCard 
-                            image="/Dona_Kika.png" 
+                            image="/dona_kika.png" 
                             label="Em Execução" 
                             title="Dona Kika Residence"
                             position={1}
                         />
                         <PortfolioCard 
-                            image="/Dona_Izmenia_Residence.png" 
+                            image="/dona_izmenia_residence.png" 
                             label="Em Execução" 
                             title="Dona Izmênia Residence"
                             position={2}

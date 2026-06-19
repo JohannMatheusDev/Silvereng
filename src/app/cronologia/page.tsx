@@ -102,7 +102,7 @@ const ALL_PROJECTS = [
         id: 9, 
         image: "/Edificio_Aureum_Park.jpg",
         category: "residencial", 
-        label: "Em Execução", 
+        label: "Concluída", 
         title: "Aureum Park Residence",
         area: "Alto Padrão", 
         local: "Rua Ivaiporã, Boqueirão, Guarapuava - PR",
@@ -177,7 +177,7 @@ const ALL_PROJECTS = [
     },
     { 
         id: 16, 
-        image: "/Dona_Izmenia_Residence.png", 
+        image: "/dona_izmenia_residence.png", 
         category: "residencial", 
         label: "Em Execução", 
         title: "Dona Izmênia Residence", 
@@ -188,7 +188,7 @@ const ALL_PROJECTS = [
     },
     { 
         id: 17, 
-        image: "/Dona_Kika.png", 
+        image: "/dona_kika.png", 
         category: "residencial", 
         label: "Em Execução", 
         title: "Dona Kika Residence", 

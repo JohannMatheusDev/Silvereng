@@ -9,31 +9,31 @@ import { useGSAP } from "@gsap/react";
 const CONCEPCIONAL_SLIDES = [
     {
         id: "concept-1",
-        code: "SILVERENG // CONFIDENCIAL X-01",
+        code: "SILVERENG ",
         title: "EM BREVE",
-        type: "Incorporação Residencial de Altíssimo Padrão",
-        local: "Bairro Boqueirão / Cidade dos Lagos • Guarapuava - PR"
+        type: "",
+        local: ""
     },
     {
         id: "concept-2",
-        code: "SILVERENG // CONFIDENCIAL X-02",
+        code: "SILVERENG ",
         title: "EM BREVE",
-        type: "Infraestrutura Comercial Corporativa",
-        local: "Eixo Comercial Central • Guarapuava - PR"
+        type: "",
+        local: ""
     },
     {
         id: "concept-3",
-        code: "SILVERENG // CONFIDENCIAL X-03",
+        code: "SILVERENG ",
         title: "EM BREVE",
-        type: "Condomínio Horizontal Secreto de Alto Luxo",
-        local: "Região de Expansão Nobre • Guarapuava - PR"
+        type: "",
+        local: ""
     },
     {
         id: "concept-4",
-        code: "SILVERENG // CONFIDENCIAL X-04",
+        code: "SILVERENG ",
         title: "EM BREVE",
-        type: "Complexo Multiuso Conceitual",
-        local: "Eixo de Desenvolvimento Urbano • Guarapuava - PR"
+        type: "",
+        local: ""
     }
 ];
 

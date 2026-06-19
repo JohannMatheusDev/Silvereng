@@ -8,7 +8,6 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger, useGSAP);
 
-// ── BANCO DE DADOS OFICIAL COMPLETO (20 OBRAS CRONOLÓGICAS REALINHADAS) ──
 const ALL_PROJECTS = [
     { 
         id: 1, 
@@ -37,7 +36,7 @@ const ALL_PROJECTS = [
         image: "/Comercial_S4_Hangar.jpeg", 
         category: "comercial", 
         label: "Concluída", 
-        title: "O Hangar", 
+        title: "Hangar Aeroporto", 
         area: "Escala Executiva", 
         local: "Aeroporto Regional Tancredo Thomas de Faria, Guarapuava - PR",
         ano: "2019",
@@ -56,7 +55,7 @@ const ALL_PROJECTS = [
     },
     { 
         id: 5, 
-        image: "", 
+        image: "/sobrado_santa_cruz_1.png",
         category: "residencial", 
         label: "Concluída", 
         title: "Sobrado Santa Cruz 1", 
@@ -67,12 +66,12 @@ const ALL_PROJECTS = [
     },
     { 
         id: 6, 
-        image: "", 
+        image: "/sobrado_cila_2.png",
         category: "residencial", 
         label: "Concluída", 
         title: "Sobrado Cila 1", 
         area: "Alto Padrão", 
-        local: "Bairro Cila, Guarapuava - PR",
+        local: "Bairro Cidades dos Lagos, Guarapuava - PR",
         ano: "2020",
         descricao: "Residência executada sob engenharia de vãos livres para amplitude de área social. Projeto arquitetônico moderno que valoriza a entrada de iluminação natural e eficiência térmica entre os pavimentos."
     },
@@ -144,7 +143,7 @@ const ALL_PROJECTS = [
     },
     { 
         id: 13, 
-        image: "", 
+        image: "/sobrado_santa_cruz_2.png",
         category: "residencial", 
         label: "Concluída", 
         title: "Sobrado Santa Cruz 2", 
@@ -221,7 +220,7 @@ const ALL_PROJECTS = [
     },
     { 
         id: 20, 
-        image: "", 
+        image: "sobrado_tramonto.png",
         category: "residencial", 
         label: "Concluída", 
         title: "Sobrado Tramonto", 

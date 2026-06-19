@@ -77,7 +77,7 @@ const ALL_PROJECTS = [
     },
     { 
         id: 7, 
-        image: "/Casa_SE2.jpeg", 
+        image: "/Casa_SE2.png", 
         category: "residencial",
         label: "Concluída", 
         title: "Casa Santa Cruz", 
